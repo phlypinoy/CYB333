@@ -1,0 +1,10 @@
+{
+  "name": "cyb333-tests",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Tiny test runner for Copilot experimentation",
+  "scripts": {
+    "test": "node test/copilot_test.js"
+  },
+  "license": "MIT"
+}
